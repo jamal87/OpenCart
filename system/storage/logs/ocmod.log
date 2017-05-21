@@ -1,0 +1,1548 @@
+2017-05-12 14:31:04 - MOD: Modification Default
+
+FILE: system/engine/action.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 41
+
+FILE: system/engine/loader.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 49
+LINE: 108
+LINE: 120
+LINE: 165
+
+FILE: system/library/config.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 23
+
+FILE: system/library/language.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 38
+LINE: 40
+LINE: 49
+LINE: 51
+LINE: 60
+LINE: 62
+
+FILE: system/library/template/php.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 18
+
+FILE: system/library/template/tiwg.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 24
+----------------------------------------------------------------
+MOD: Quick Login / Sign up
+
+FILE: catalog/view/theme/default/template/common/header.tpl
+CODE: <?php echo $telephone; ?></span></li>
+LINE: 49
+CODE: <li><a href="<?php echo $wishlist; ?>"
+LINE: 68
+CODE: </header>
+LINE: 94
+
+FILE: catalog/controller/common/header.php
+CODE: $this->load->language('common/header');
+LINE: 51
+
+FILE: catalog/language/en-gb/common/header.php
+CODE: // Text
+LINE: 4
+
+FILE: catalog/language/ru-ru/common/header.php
+CODE: // Text
+LINE: 4
+----------------------------------------------------------------
+2017-05-12 14:31:10 - MOD: Modification Default
+
+FILE: system/engine/action.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 41
+
+FILE: system/engine/loader.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 49
+LINE: 108
+LINE: 120
+LINE: 165
+
+FILE: system/library/config.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 23
+
+FILE: system/library/language.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 38
+LINE: 40
+LINE: 49
+LINE: 51
+LINE: 60
+LINE: 62
+
+FILE: system/library/template/php.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 18
+
+FILE: system/library/template/tiwg.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 24
+----------------------------------------------------------------
+MOD: Quick Login / Sign up
+
+FILE: catalog/view/theme/default/template/common/header.tpl
+CODE: <?php echo $telephone; ?></span></li>
+LINE: 49
+CODE: <li><a href="<?php echo $wishlist; ?>"
+LINE: 68
+CODE: </header>
+LINE: 94
+
+FILE: catalog/controller/common/header.php
+CODE: $this->load->language('common/header');
+LINE: 51
+
+FILE: catalog/language/en-gb/common/header.php
+CODE: // Text
+LINE: 4
+
+FILE: catalog/language/ru-ru/common/header.php
+CODE: // Text
+LINE: 4
+----------------------------------------------------------------
+2017-05-12 14:31:15 - MOD: Modification Default
+
+FILE: system/engine/action.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 41
+
+FILE: system/engine/loader.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 49
+LINE: 108
+LINE: 120
+LINE: 165
+
+FILE: system/library/config.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 23
+
+FILE: system/library/language.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 38
+LINE: 40
+LINE: 49
+LINE: 51
+LINE: 60
+LINE: 62
+
+FILE: system/library/template/php.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 18
+
+FILE: system/library/template/tiwg.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 24
+----------------------------------------------------------------
+MOD: Quick Login / Sign up
+
+FILE: catalog/view/theme/default/template/common/header.tpl
+CODE: <?php echo $telephone; ?></span></li>
+LINE: 49
+CODE: <li><a href="<?php echo $wishlist; ?>"
+LINE: 68
+CODE: </header>
+LINE: 94
+
+FILE: catalog/controller/common/header.php
+CODE: $this->load->language('common/header');
+LINE: 51
+
+FILE: catalog/language/en-gb/common/header.php
+CODE: // Text
+LINE: 4
+
+FILE: catalog/language/ru-ru/common/header.php
+CODE: // Text
+LINE: 4
+----------------------------------------------------------------
+2017-05-17 18:48:06 - MOD: Modification Default
+
+FILE: system/engine/action.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 41
+
+FILE: system/engine/loader.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 49
+LINE: 108
+LINE: 120
+LINE: 165
+
+FILE: system/library/config.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 23
+
+FILE: system/library/language.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 38
+LINE: 40
+LINE: 49
+LINE: 51
+LINE: 60
+LINE: 62
+
+FILE: system/library/template/php.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 18
+
+FILE: system/library/template/tiwg.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 24
+----------------------------------------------------------------
+MOD: Quick Login / Sign up
+
+FILE: catalog/view/theme/default/template/common/header.tpl
+CODE: <?php echo $telephone; ?></span></li>
+LINE: 49
+CODE: <li><a href="<?php echo $wishlist; ?>"
+LINE: 68
+CODE: </header>
+LINE: 94
+
+FILE: catalog/controller/common/header.php
+CODE: $this->load->language('common/header');
+LINE: 51
+
+FILE: catalog/language/en-gb/common/header.php
+CODE: // Text
+LINE: 4
+
+FILE: catalog/language/ru-ru/common/header.php
+CODE: // Text
+LINE: 4
+----------------------------------------------------------------
+2017-05-17 18:53:13 - MOD: Modification Default
+
+FILE: system/engine/action.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 41
+
+FILE: system/engine/loader.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 49
+LINE: 108
+LINE: 120
+LINE: 165
+
+FILE: system/library/config.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 23
+
+FILE: system/library/language.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 38
+LINE: 40
+LINE: 49
+LINE: 51
+LINE: 60
+LINE: 62
+
+FILE: system/library/template/php.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 18
+
+FILE: system/library/template/tiwg.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 24
+----------------------------------------------------------------
+MOD: Quick Login / Sign up
+
+FILE: catalog/view/theme/default/template/common/header.tpl
+CODE: <?php echo $telephone; ?></span></li>
+LINE: 49
+CODE: <li><a href="<?php echo $wishlist; ?>"
+LINE: 68
+CODE: </header>
+LINE: 94
+
+FILE: catalog/view/theme/default/template/account/edit.tpl
+CODE: <label class="col-sm-2 control-label" for="input-lastname">
+LINE: 34
+
+FILE: catalog/controller/common/header.php
+CODE: $this->load->language('common/header');
+LINE: 51
+
+FILE: catalog/language/en-gb/common/header.php
+CODE: // Text
+LINE: 4
+
+FILE: catalog/language/ru-ru/common/header.php
+CODE: // Text
+LINE: 4
+----------------------------------------------------------------
+2017-05-17 18:59:44 - MOD: Modification Default
+
+FILE: system/engine/action.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 41
+
+FILE: system/engine/loader.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 49
+LINE: 108
+LINE: 120
+LINE: 165
+
+FILE: system/library/config.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 23
+
+FILE: system/library/language.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 38
+LINE: 40
+LINE: 49
+LINE: 51
+LINE: 60
+LINE: 62
+
+FILE: system/library/template/php.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 18
+
+FILE: system/library/template/tiwg.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 24
+----------------------------------------------------------------
+2017-05-17 18:59:59 - MOD: Modification Default
+
+FILE: system/engine/action.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 41
+
+FILE: system/engine/loader.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 49
+LINE: 108
+LINE: 120
+LINE: 165
+
+FILE: system/library/config.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 23
+
+FILE: system/library/language.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 38
+LINE: 40
+LINE: 49
+LINE: 51
+LINE: 60
+LINE: 62
+
+FILE: system/library/template/php.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 18
+
+FILE: system/library/template/tiwg.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 24
+----------------------------------------------------------------
+MOD: Quick Login / Sign up
+
+FILE: catalog/view/theme/default/template/common/header.tpl
+CODE: <?php echo $telephone; ?></span></li>
+LINE: 49
+CODE: <li><a href="<?php echo $wishlist; ?>"
+LINE: 68
+CODE: </header>
+LINE: 94
+
+FILE: catalog/view/theme/default/template/account/edit.tpl
+CODE: <div class="form-group required">
+LINE: 41
+
+FILE: catalog/controller/common/header.php
+CODE: $this->load->language('common/header');
+LINE: 51
+
+FILE: catalog/language/en-gb/common/header.php
+CODE: // Text
+LINE: 4
+
+FILE: catalog/language/ru-ru/common/header.php
+CODE: // Text
+LINE: 4
+----------------------------------------------------------------
+2017-05-17 19:01:10 - MOD: Modification Default
+
+FILE: system/engine/action.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 41
+
+FILE: system/engine/loader.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 49
+LINE: 108
+LINE: 120
+LINE: 165
+
+FILE: system/library/config.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 23
+
+FILE: system/library/language.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 38
+LINE: 40
+LINE: 49
+LINE: 51
+LINE: 60
+LINE: 62
+
+FILE: system/library/template/php.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 18
+
+FILE: system/library/template/tiwg.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 24
+----------------------------------------------------------------
+MOD: Quick Login / Sign up
+
+FILE: catalog/view/theme/default/template/common/header.tpl
+CODE: <?php echo $telephone; ?></span></li>
+LINE: 49
+CODE: <li><a href="<?php echo $wishlist; ?>"
+LINE: 68
+CODE: </header>
+LINE: 94
+
+FILE: catalog/view/theme/default/template/account/edit.tpl
+CODE: <div class="form-group required">
+LINE: 41
+
+FILE: catalog/controller/common/header.php
+CODE: $this->load->language('common/header');
+LINE: 51
+
+FILE: catalog/language/en-gb/common/header.php
+CODE: // Text
+LINE: 4
+
+FILE: catalog/language/ru-ru/common/header.php
+CODE: // Text
+LINE: 4
+----------------------------------------------------------------
+2017-05-17 19:01:55 - MOD: Modification Default
+
+FILE: system/engine/action.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 41
+
+FILE: system/engine/loader.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 49
+LINE: 108
+LINE: 120
+LINE: 165
+
+FILE: system/library/config.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 23
+
+FILE: system/library/language.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 38
+LINE: 40
+LINE: 49
+LINE: 51
+LINE: 60
+LINE: 62
+
+FILE: system/library/template/php.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 18
+
+FILE: system/library/template/tiwg.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 24
+----------------------------------------------------------------
+2017-05-17 19:02:07 - MOD: Modification Default
+
+FILE: system/engine/action.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 41
+
+FILE: system/engine/loader.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 49
+LINE: 108
+LINE: 120
+LINE: 165
+
+FILE: system/library/config.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 23
+
+FILE: system/library/language.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 38
+LINE: 40
+LINE: 49
+LINE: 51
+LINE: 60
+LINE: 62
+
+FILE: system/library/template/php.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 18
+
+FILE: system/library/template/tiwg.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 24
+----------------------------------------------------------------
+MOD: Quick Login / Sign up
+
+FILE: catalog/view/theme/default/template/common/header.tpl
+CODE: <?php echo $telephone; ?></span></li>
+LINE: 49
+CODE: <li><a href="<?php echo $wishlist; ?>"
+LINE: 68
+CODE: </header>
+LINE: 94
+
+FILE: catalog/view/theme/default/template/account/edit.tpl
+CODE: <div class="form-group required">
+LINE: 32
+
+FILE: catalog/controller/common/header.php
+CODE: $this->load->language('common/header');
+LINE: 51
+
+FILE: catalog/language/en-gb/common/header.php
+CODE: // Text
+LINE: 4
+
+FILE: catalog/language/ru-ru/common/header.php
+CODE: // Text
+LINE: 4
+----------------------------------------------------------------
+2017-05-17 19:06:27 - MOD: Modification Default
+
+FILE: system/engine/action.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 41
+
+FILE: system/engine/loader.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 49
+LINE: 108
+LINE: 120
+LINE: 165
+
+FILE: system/library/config.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 23
+
+FILE: system/library/language.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 38
+LINE: 40
+LINE: 49
+LINE: 51
+LINE: 60
+LINE: 62
+
+FILE: system/library/template/php.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 18
+
+FILE: system/library/template/tiwg.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 24
+----------------------------------------------------------------
+2017-05-17 19:06:38 - MOD: Modification Default
+
+FILE: system/engine/action.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 41
+
+FILE: system/engine/loader.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 49
+LINE: 108
+LINE: 120
+LINE: 165
+
+FILE: system/library/config.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 23
+
+FILE: system/library/language.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 38
+LINE: 40
+LINE: 49
+LINE: 51
+LINE: 60
+LINE: 62
+
+FILE: system/library/template/php.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 18
+
+FILE: system/library/template/tiwg.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 24
+----------------------------------------------------------------
+MOD: Quick Login / Sign up
+
+FILE: catalog/view/theme/default/template/common/header.tpl
+CODE: <?php echo $telephone; ?></span></li>
+LINE: 49
+CODE: <li><a href="<?php echo $wishlist; ?>"
+LINE: 68
+CODE: </header>
+LINE: 94
+
+FILE: catalog/view/theme/default/template/account/edit.tpl
+CODE: <div class="form-group required">
+LINE: 32
+
+FILE: catalog/controller/account/edit.php
+CODE: if ((utf8_strlen(trim($this->request->post['lastname'])) < 1) || (utf8_strlen(trim($this->request->post['lastname'])) > 32)) {
+			$this->error['lastname'] = $this->language->get('error_lastname');
+		}
+NOT FOUND - OPERATIONS ABORTED!
+
+FILE: catalog/controller/common/header.php
+CODE: $this->load->language('common/header');
+LINE: 51
+
+FILE: catalog/language/en-gb/common/header.php
+CODE: // Text
+LINE: 4
+
+FILE: catalog/language/ru-ru/common/header.php
+CODE: // Text
+LINE: 4
+----------------------------------------------------------------
+2017-05-17 19:09:06 - MOD: Modification Default
+
+FILE: system/engine/action.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 41
+
+FILE: system/engine/loader.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 49
+LINE: 108
+LINE: 120
+LINE: 165
+
+FILE: system/library/config.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 23
+
+FILE: system/library/language.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 38
+LINE: 40
+LINE: 49
+LINE: 51
+LINE: 60
+LINE: 62
+
+FILE: system/library/template/php.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 18
+
+FILE: system/library/template/tiwg.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 24
+----------------------------------------------------------------
+MOD: Quick Login / Sign up
+
+FILE: catalog/view/theme/default/template/common/header.tpl
+CODE: <?php echo $telephone; ?></span></li>
+LINE: 49
+CODE: <li><a href="<?php echo $wishlist; ?>"
+LINE: 68
+CODE: </header>
+LINE: 94
+
+FILE: catalog/view/theme/default/template/account/edit.tpl
+CODE: <div class="form-group required">
+LINE: 32
+
+FILE: catalog/controller/account/edit.php
+CODE: // Add to activity log
+LINE: 26
+
+FILE: catalog/controller/common/header.php
+CODE: $this->load->language('common/header');
+LINE: 51
+
+FILE: catalog/language/en-gb/common/header.php
+CODE: // Text
+LINE: 4
+
+FILE: catalog/language/ru-ru/common/header.php
+CODE: // Text
+LINE: 4
+----------------------------------------------------------------
+2017-05-17 19:10:31 - MOD: Modification Default
+
+FILE: system/engine/action.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 41
+
+FILE: system/engine/loader.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 49
+LINE: 108
+LINE: 120
+LINE: 165
+
+FILE: system/library/config.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 23
+
+FILE: system/library/language.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 38
+LINE: 40
+LINE: 49
+LINE: 51
+LINE: 60
+LINE: 62
+
+FILE: system/library/template/php.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 18
+
+FILE: system/library/template/tiwg.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 24
+----------------------------------------------------------------
+MOD: Quick Login / Sign up
+
+FILE: catalog/view/theme/default/template/common/header.tpl
+CODE: <?php echo $telephone; ?></span></li>
+LINE: 49
+CODE: <li><a href="<?php echo $wishlist; ?>"
+LINE: 68
+CODE: </header>
+LINE: 94
+
+FILE: catalog/view/theme/default/template/account/edit.tpl
+CODE: <div class="form-group required">
+LINE: 32
+
+FILE: catalog/controller/account/edit.php
+CODE: protected function validate() {
+LINE: 185
+
+FILE: catalog/controller/common/header.php
+CODE: $this->load->language('common/header');
+LINE: 51
+
+FILE: catalog/language/en-gb/common/header.php
+CODE: // Text
+LINE: 4
+
+FILE: catalog/language/ru-ru/common/header.php
+CODE: // Text
+LINE: 4
+----------------------------------------------------------------
+2017-05-17 19:12:02 - MOD: Modification Default
+
+FILE: system/engine/action.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 41
+
+FILE: system/engine/loader.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 49
+LINE: 108
+LINE: 120
+LINE: 165
+
+FILE: system/library/config.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 23
+
+FILE: system/library/language.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 38
+LINE: 40
+LINE: 49
+LINE: 51
+LINE: 60
+LINE: 62
+
+FILE: system/library/template/php.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 18
+
+FILE: system/library/template/tiwg.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 24
+----------------------------------------------------------------
+MOD: Quick Login / Sign up
+
+FILE: catalog/view/theme/default/template/common/header.tpl
+CODE: <?php echo $telephone; ?></span></li>
+LINE: 49
+CODE: <li><a href="<?php echo $wishlist; ?>"
+LINE: 68
+CODE: </header>
+LINE: 94
+
+FILE: catalog/view/theme/default/template/account/edit.tpl
+CODE: <div class="form-group required">
+LINE: 32
+
+FILE: catalog/controller/account/edit.php
+CODE: if ((utf8_strlen(trim($this->request->post['lastname'])) < 1) || (utf8_strlen(trim($this->request->post['lastname'])) > 32)) {
+			$this->error['lastname'] = $this->language->get('error_lastname');
+		}
+NOT FOUND - OPERATIONS ABORTED!
+
+FILE: catalog/controller/common/header.php
+CODE: $this->load->language('common/header');
+LINE: 51
+
+FILE: catalog/language/en-gb/common/header.php
+CODE: // Text
+LINE: 4
+
+FILE: catalog/language/ru-ru/common/header.php
+CODE: // Text
+LINE: 4
+----------------------------------------------------------------
+2017-05-17 19:13:41 - MOD: Modification Default
+
+FILE: system/engine/action.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 41
+
+FILE: system/engine/loader.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 49
+LINE: 108
+LINE: 120
+LINE: 165
+
+FILE: system/library/config.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 23
+
+FILE: system/library/language.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 38
+LINE: 40
+LINE: 49
+LINE: 51
+LINE: 60
+LINE: 62
+
+FILE: system/library/template/php.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 18
+
+FILE: system/library/template/tiwg.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 24
+----------------------------------------------------------------
+MOD: Quick Login / Sign up
+
+FILE: catalog/view/theme/default/template/common/header.tpl
+CODE: <?php echo $telephone; ?></span></li>
+LINE: 49
+CODE: <li><a href="<?php echo $wishlist; ?>"
+LINE: 68
+CODE: </header>
+LINE: 94
+
+FILE: catalog/view/theme/default/template/account/edit.tpl
+CODE: <div class="form-group required">
+LINE: 32
+
+FILE: catalog/controller/account/edit.php
+CODE: ((utf8_strlen(trim($this->request->post['lastname']))
+LINE: 190
+
+FILE: catalog/controller/common/header.php
+CODE: $this->load->language('common/header');
+LINE: 51
+
+FILE: catalog/language/en-gb/common/header.php
+CODE: // Text
+LINE: 4
+
+FILE: catalog/language/ru-ru/common/header.php
+CODE: // Text
+LINE: 4
+----------------------------------------------------------------
+2017-05-17 19:16:42 - MOD: Modification Default
+
+FILE: system/engine/action.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 41
+
+FILE: system/engine/loader.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 49
+LINE: 108
+LINE: 120
+LINE: 165
+
+FILE: system/library/config.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 23
+
+FILE: system/library/language.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 38
+LINE: 40
+LINE: 49
+LINE: 51
+LINE: 60
+LINE: 62
+
+FILE: system/library/template/php.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 18
+
+FILE: system/library/template/tiwg.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 24
+----------------------------------------------------------------
+MOD: Quick Login / Sign up
+
+FILE: catalog/view/theme/default/template/common/header.tpl
+CODE: <?php echo $telephone; ?></span></li>
+LINE: 49
+CODE: <li><a href="<?php echo $wishlist; ?>"
+LINE: 68
+CODE: </header>
+LINE: 94
+
+FILE: catalog/view/theme/default/template/account/edit.tpl
+CODE: <div class="form-group required">
+LINE: 32
+
+FILE: catalog/controller/account/edit.php
+CODE: ((utf8_strlen(trim($this->request->post['lastname']))
+LINE: 188
+
+FILE: catalog/controller/common/header.php
+CODE: $this->load->language('common/header');
+LINE: 51
+
+FILE: catalog/language/en-gb/common/header.php
+CODE: // Text
+LINE: 4
+
+FILE: catalog/language/ru-ru/common/header.php
+CODE: // Text
+LINE: 4
+----------------------------------------------------------------
+2017-05-17 19:16:53 - MOD: Modification Default
+
+FILE: system/engine/action.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 41
+
+FILE: system/engine/loader.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 49
+LINE: 108
+LINE: 120
+LINE: 165
+
+FILE: system/library/config.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 23
+
+FILE: system/library/language.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 38
+LINE: 40
+LINE: 49
+LINE: 51
+LINE: 60
+LINE: 62
+
+FILE: system/library/template/php.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 18
+
+FILE: system/library/template/tiwg.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 24
+----------------------------------------------------------------
+MOD: Quick Login / Sign up
+
+FILE: catalog/view/theme/default/template/common/header.tpl
+CODE: <?php echo $telephone; ?></span></li>
+LINE: 49
+CODE: <li><a href="<?php echo $wishlist; ?>"
+LINE: 68
+CODE: </header>
+LINE: 94
+
+FILE: catalog/view/theme/default/template/account/edit.tpl
+CODE: <div class="form-group required">
+LINE: 32
+
+FILE: catalog/controller/account/edit.php
+CODE: ((utf8_strlen(trim($this->request->post['lastname']))
+LINE: 188
+
+FILE: catalog/controller/common/header.php
+CODE: $this->load->language('common/header');
+LINE: 51
+
+FILE: catalog/language/en-gb/common/header.php
+CODE: // Text
+LINE: 4
+
+FILE: catalog/language/ru-ru/common/header.php
+CODE: // Text
+LINE: 4
+----------------------------------------------------------------
+2017-05-17 19:16:57 - MOD: Modification Default
+
+FILE: system/engine/action.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 41
+
+FILE: system/engine/loader.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 49
+LINE: 108
+LINE: 120
+LINE: 165
+
+FILE: system/library/config.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 23
+
+FILE: system/library/language.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 38
+LINE: 40
+LINE: 49
+LINE: 51
+LINE: 60
+LINE: 62
+
+FILE: system/library/template/php.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 18
+
+FILE: system/library/template/tiwg.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 24
+----------------------------------------------------------------
+MOD: Quick Login / Sign up
+
+FILE: catalog/view/theme/default/template/common/header.tpl
+CODE: <?php echo $telephone; ?></span></li>
+LINE: 49
+CODE: <li><a href="<?php echo $wishlist; ?>"
+LINE: 68
+CODE: </header>
+LINE: 94
+
+FILE: catalog/view/theme/default/template/account/edit.tpl
+CODE: <div class="form-group required">
+LINE: 32
+
+FILE: catalog/controller/account/edit.php
+CODE: ((utf8_strlen(trim($this->request->post['lastname']))
+LINE: 188
+
+FILE: catalog/controller/common/header.php
+CODE: $this->load->language('common/header');
+LINE: 51
+
+FILE: catalog/language/en-gb/common/header.php
+CODE: // Text
+LINE: 4
+
+FILE: catalog/language/ru-ru/common/header.php
+CODE: // Text
+LINE: 4
+----------------------------------------------------------------
+2017-05-17 19:27:07 - MOD: Modification Default
+
+FILE: system/engine/action.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 41
+
+FILE: system/engine/loader.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 49
+LINE: 108
+LINE: 120
+LINE: 165
+
+FILE: system/library/config.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 23
+
+FILE: system/library/language.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 38
+LINE: 40
+LINE: 49
+LINE: 51
+LINE: 60
+LINE: 62
+
+FILE: system/library/template/php.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 18
+
+FILE: system/library/template/tiwg.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 24
+----------------------------------------------------------------
+MOD: Quick Login / Sign up
+
+FILE: catalog/view/theme/default/template/common/header.tpl
+CODE: <?php echo $telephone; ?></span></li>
+LINE: 49
+CODE: <li><a href="<?php echo $wishlist; ?>"
+LINE: 68
+CODE: </header>
+LINE: 94
+
+FILE: catalog/view/theme/default/template/account/edit.tpl
+CODE: <div class="form-group required">
+LINE: 32
+
+FILE: catalog/controller/account/edit.php
+CODE: ((utf8_strlen(trim($this->request->post['lastname']))
+LINE: 188
+CODE: $this->error['lastname'] = $this->language->get('error_lastname');
+LINE: 190
+
+FILE: catalog/controller/common/header.php
+CODE: $this->load->language('common/header');
+LINE: 51
+
+FILE: catalog/language/en-gb/common/header.php
+CODE: // Text
+LINE: 4
+
+FILE: catalog/language/ru-ru/common/header.php
+CODE: // Text
+LINE: 4
+----------------------------------------------------------------
+2017-05-17 20:14:52 - MOD: Modification Default
+
+FILE: system/engine/action.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 41
+
+FILE: system/engine/loader.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 49
+LINE: 108
+LINE: 120
+LINE: 165
+
+FILE: system/library/config.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 23
+
+FILE: system/library/language.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 38
+LINE: 40
+LINE: 49
+LINE: 51
+LINE: 60
+LINE: 62
+
+FILE: system/library/template/php.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 18
+
+FILE: system/library/template/tiwg.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 24
+----------------------------------------------------------------
+2017-05-17 20:15:00 - MOD: Modification Default
+
+FILE: system/engine/action.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 41
+
+FILE: system/engine/loader.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 49
+LINE: 108
+LINE: 120
+LINE: 165
+
+FILE: system/library/config.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 23
+
+FILE: system/library/language.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 38
+LINE: 40
+LINE: 49
+LINE: 51
+LINE: 60
+LINE: 62
+
+FILE: system/library/template/php.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 18
+
+FILE: system/library/template/tiwg.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 24
+----------------------------------------------------------------
+2017-05-17 20:15:25 - MOD: Modification Default
+
+FILE: system/engine/action.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 41
+
+FILE: system/engine/loader.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 49
+LINE: 108
+LINE: 120
+LINE: 165
+
+FILE: system/library/config.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 23
+
+FILE: system/library/language.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 38
+LINE: 40
+LINE: 49
+LINE: 51
+LINE: 60
+LINE: 62
+
+FILE: system/library/template/php.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 18
+
+FILE: system/library/template/tiwg.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 24
+----------------------------------------------------------------
+MOD: Quick Login / Sign up
+
+FILE: catalog/view/theme/default/template/common/header.tpl
+CODE: <?php echo $telephone; ?></span></li>
+LINE: 49
+CODE: <li><a href="<?php echo $wishlist; ?>"
+LINE: 68
+CODE: </header>
+LINE: 94
+
+FILE: catalog/view/theme/default/template/account/edit.tpl
+CODE: <div class="form-group required">
+LINE: 32
+
+FILE: catalog/controller/account/edit.php
+CODE: ((utf8_strlen(trim($this->request->post['lastname']))
+LINE: 188
+CODE: $this->error['lastname'] = $this->language->get('error_lastname');
+LINE: 190
+
+FILE: catalog/controller/common/header.php
+CODE: $this->load->language('common/header');
+LINE: 51
+
+FILE: catalog/language/en-gb/common/header.php
+CODE: // Text
+LINE: 4
+
+FILE: catalog/language/ru-ru/common/header.php
+CODE: // Text
+LINE: 4
+----------------------------------------------------------------
+2017-05-17 20:15:32 - MOD: Modification Default
+
+FILE: system/engine/action.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 41
+
+FILE: system/engine/loader.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 49
+LINE: 108
+LINE: 120
+LINE: 165
+
+FILE: system/library/config.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 23
+
+FILE: system/library/language.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 38
+LINE: 40
+LINE: 49
+LINE: 51
+LINE: 60
+LINE: 62
+
+FILE: system/library/template/php.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 18
+
+FILE: system/library/template/tiwg.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 24
+----------------------------------------------------------------
+MOD: Quick Login / Sign up
+
+FILE: catalog/view/theme/default/template/common/header.tpl
+CODE: <?php echo $telephone; ?></span></li>
+LINE: 49
+CODE: <li><a href="<?php echo $wishlist; ?>"
+LINE: 68
+CODE: </header>
+LINE: 94
+
+FILE: catalog/view/theme/default/template/account/edit.tpl
+CODE: <div class="form-group required">
+LINE: 32
+
+FILE: catalog/controller/account/edit.php
+CODE: ((utf8_strlen(trim($this->request->post['lastname']))
+LINE: 188
+CODE: $this->error['lastname'] = $this->language->get('error_lastname');
+LINE: 190
+
+FILE: catalog/controller/common/header.php
+CODE: $this->load->language('common/header');
+LINE: 51
+
+FILE: catalog/language/en-gb/common/header.php
+CODE: // Text
+LINE: 4
+
+FILE: catalog/language/ru-ru/common/header.php
+CODE: // Text
+LINE: 4
+----------------------------------------------------------------
+2017-05-17 20:56:13 - MOD: Modification Default
+
+FILE: system/engine/action.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 41
+
+FILE: system/engine/loader.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 49
+LINE: 108
+LINE: 120
+LINE: 165
+
+FILE: system/library/config.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 23
+
+FILE: system/library/language.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 38
+LINE: 40
+LINE: 49
+LINE: 51
+LINE: 60
+LINE: 62
+
+FILE: system/library/template/php.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 18
+
+FILE: system/library/template/tiwg.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 24
+----------------------------------------------------------------
+2017-05-17 20:57:34 - MOD: Modification Default
+
+FILE: system/engine/action.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 41
+
+FILE: system/engine/loader.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 49
+LINE: 108
+LINE: 120
+LINE: 165
+
+FILE: system/library/config.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 23
+
+FILE: system/library/language.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 38
+LINE: 40
+LINE: 49
+LINE: 51
+LINE: 60
+LINE: 62
+
+FILE: system/library/template/php.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 18
+
+FILE: system/library/template/tiwg.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 24
+----------------------------------------------------------------
+MOD: Quick Login / Sign up
+
+FILE: catalog/view/theme/default/template/common/header.tpl
+CODE: <?php echo $telephone; ?></span></li>
+LINE: 49
+CODE: <li><a href="<?php echo $wishlist; ?>"
+LINE: 68
+CODE: </header>
+LINE: 94
+
+FILE: catalog/view/theme/default/template/account/edit.tpl
+CODE: <div class="form-group required">
+LINE: 32
+
+FILE: catalog/controller/account/edit.php
+CODE: ((utf8_strlen(trim($this->request->post['lastname']))
+LINE: 188
+CODE: $this->error['lastname'] = $this->language->get('error_lastname');
+LINE: 190
+
+FILE: catalog/controller/common/header.php
+CODE: $this->load->language('common/header');
+LINE: 51
+
+FILE: catalog/language/en-gb/common/header.php
+CODE: // Text
+LINE: 4
+
+FILE: catalog/language/ru-ru/common/header.php
+CODE: // Text
+LINE: 4
+----------------------------------------------------------------
+2017-05-17 21:00:58 - MOD: Modification Default
+
+FILE: system/engine/action.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 41
+
+FILE: system/engine/loader.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 49
+LINE: 108
+LINE: 120
+LINE: 165
+
+FILE: system/library/config.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 23
+
+FILE: system/library/language.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 38
+LINE: 40
+LINE: 49
+LINE: 51
+LINE: 60
+LINE: 62
+
+FILE: system/library/template/php.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 18
+
+FILE: system/library/template/tiwg.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 24
+----------------------------------------------------------------
+2017-05-17 21:01:43 - MOD: Modification Default
+
+FILE: system/engine/action.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 41
+
+FILE: system/engine/loader.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 49
+LINE: 108
+LINE: 120
+LINE: 165
+
+FILE: system/library/config.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 23
+
+FILE: system/library/language.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 38
+LINE: 40
+LINE: 49
+LINE: 51
+LINE: 60
+LINE: 62
+
+FILE: system/library/template/php.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 18
+
+FILE: system/library/template/tiwg.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 24
+----------------------------------------------------------------
+MOD: Quick Login / Sign up
+
+FILE: catalog/view/theme/default/template/common/header.tpl
+CODE: <?php echo $telephone; ?></span></li>
+LINE: 49
+CODE: <li><a href="<?php echo $wishlist; ?>"
+LINE: 68
+CODE: </header>
+LINE: 94
+
+FILE: catalog/view/theme/default/template/account/edit.tpl
+CODE: <div class="form-group required">
+LINE: 32
+
+FILE: catalog/controller/account/edit.php
+CODE: ((utf8_strlen(trim($this->request->post['lastname']))
+LINE: 188
+CODE: $this->error['lastname'] = $this->language->get('error_lastname');
+LINE: 190
+
+FILE: catalog/controller/common/header.php
+CODE: $this->load->language('common/header');
+LINE: 51
+
+FILE: catalog/language/en-gb/common/header.php
+CODE: // Text
+LINE: 4
+
+FILE: catalog/language/ru-ru/common/header.php
+CODE: // Text
+LINE: 4
+----------------------------------------------------------------
